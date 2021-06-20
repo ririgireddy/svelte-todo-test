@@ -44,7 +44,7 @@
 
 <div class="info">
 
-<Fa icon={faInfoCircle} /> If you resubmit this page, progress will be lost
+<Fa icon={faInfoCircle} /> If you refresh this page, progress will be lost
 </div>
 
 
